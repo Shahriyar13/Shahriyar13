@@ -16,6 +16,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriyar13&hide_progress=false&theme=github_dark#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 
+# Wakatime
+
 <a href="https://github.com/shahriyar13#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shahriyar13&theme=buefy#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
